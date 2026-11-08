@@ -1,0 +1,50 @@
+{
+  "FD001": {
+    "fd": "FD001",
+    "best_cap": 125,
+    "best_window": 60,
+    "best_model": "ens",
+    "n_sensors": 15,
+    "val_rmse": 12.35723258362817,
+    "test_rmse": 12.727531546315777,
+    "test_score": 263.2555909205654,
+    "seconds": 280
+  },
+  "FD002": {
+    "fd": "FD002",
+    "best_cap": 150,
+    "best_window": 60,
+    "best_model": "ens",
+    "n_sensors": 16,
+    "val_rmse": 22.064422571953507,
+    "test_rmse": 20.49905120769075,
+    "test_score": 2595.4587441320336,
+    "test_rmse_capped": 11.293441575404284,
+    "test_rmse_last30": 3.1753041877736483,
+    "seconds": 66
+  },
+  "FD003": {
+    "fd": "FD003",
+    "best_cap": 125,
+    "best_window": 60,
+    "best_model": "ens_trees",
+    "n_sensors": 14,
+    "val_rmse": 9.9122628061545,
+    "test_rmse": 11.06829818583763,
+    "test_score": 200.92873083838202,
+    "seconds": 256
+  },
+  "FD004": {
+    "fd": "FD004",
+    "best_cap": 150,
+    "best_window": 60,
+    "best_model": "ens",
+    "n_sensors": 14,
+    "val_rmse": 23.5221989238153,
+    "test_rmse": 20.369487356306255,
+    "test_score": 2378.641092631648,
+    "test_rmse_capped": 12.733613661950924,
+    "test_rmse_last30": 5.295833879884969,
+    "seconds": 28
+  }
+}

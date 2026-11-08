@@ -1,0 +1,20 @@
+# environment / caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# large or reproducible artefacts (re-create with run_experiments.py)
+*.joblib
+models/
+models_*/
+models_backup*/
+results_old/
+results_backup*/
+results_*/
+exp_*/
+data_synthetic/
+
+# raw NASA data: download it yourself (see README), do not commit
+data/*.txt
+data/*.pdf

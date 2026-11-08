@@ -1,0 +1,9 @@
+fd,baseline,rmse,score
+FD001,constant (median train life),64.61532326004414,1502475.4128506004
+FD001,physics-linear (median life - cycle),37.77803594683027,25970.4084954557
+FD002,constant (median train life),87.3362339502784,62877064.05811767
+FD002,physics-linear (median life - cycle),41.05016236406173,116855.85756584072
+FD003,constant (median train life),64.66606528929992,1390904.7549624115
+FD003,physics-linear (median life - cycle),45.54363292492157,102640.56580752655
+FD004,constant (median train life),83.65667645878021,49077892.44304654
+FD004,physics-linear (median life - cycle),58.915877699999434,2958147.8908257196
